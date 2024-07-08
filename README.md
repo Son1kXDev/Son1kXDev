@@ -6,7 +6,7 @@ Unity C# Developer
 
 * 🌍  I'm based in Moscow, Russia
 * ✉️  You can contact me at [son1kx@vk.com](mailto:son1kx@vk.com)
-* 🧠  I'm currently learning **C#, JS, Angular**
+* 🧠  I'm currently learning **JS**
 * 🤝  I'm open to collaborating on any Unity 2D project. You can look at my repositories to see if I'm right for you.
 
 <h3 align="left">Languages and Tools:</h3>
