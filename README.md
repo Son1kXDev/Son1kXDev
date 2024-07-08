@@ -6,7 +6,6 @@ Unity C# Developer
 
 * 🌍  I'm based in Moscow, Russia
 * ✉️  You can contact me at [son1kx@vk.com](mailto:son1kx@vk.com)
-* 🔭  I'm currently working on [Quiz about cultural figures](https://github.com/MIU-Unity/MobileAppMMU)
 * 🧠  I'm currently learning **C#, JS, Angular**
 * 🤝  I'm open to collaborating on any Unity 2D project. You can look at my repositories to see if I'm right for you.
 
